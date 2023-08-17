@@ -1,0 +1,8 @@
+<resources>
+    <string name="new_task">Новая задача</string>
+    <string name="add_new_task">Добавить</string>
+    <string name="delete_this_task">Хотите ли Вы удалить данную задачу?</string>
+    <string name="delete_task">Удалить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+</resources>
